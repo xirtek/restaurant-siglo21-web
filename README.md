@@ -9,6 +9,7 @@ Aplicación web para el ramo Portafolio de Título 2019.
 ## Instalar
 - Netbeans IDE 8.2
 - Oracle 11g R2 Express Edition
+- Java SE Development Kit 8 Update 221 (64-bit)
 
 ## Integrantes
 - Hugo Corvalán
