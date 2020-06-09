@@ -3,7 +3,7 @@
 Aplicación web para el ramo Portafolio de Título 2019.
 
 ## Tecnologías utilizadas:
-- Lenguaje de Programación: Java
+- Lenguajes de Programación: Java, JavaScript
 - Base de Datos: Oracle 11g
 
 ## Instalar
